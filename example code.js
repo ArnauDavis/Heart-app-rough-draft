@@ -37,6 +37,15 @@ function areYouGoodDawg(age,heartRate,etc){
 }
 
 
+//Here I run two examples to everything works as expected
+
 areYouGoodDawg(9,40,'normal')
+//Expected return: 
+//This is middle heartrate 
+//a variable independent of heart rate, but dependent on age group
+
 
 areYouGoodDawg(15,300,'not normal')
+//Expected return:
+//This kid needs to stop drinking soda
+//a variable independent of heart rate, but dependent on age group, this is when it is bad
