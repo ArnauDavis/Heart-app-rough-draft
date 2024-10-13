@@ -1,5 +1,5 @@
 # Rough draft for heart monitoring app
-This is a rough draft brainstorm of what the JavaScript behind an app that took in a User's age, heartRate, and some random variable 'etc', and report back based on where a user fell within preset parameters. 
+This is a rough draft brainstorm of what the JavaScript behind an app that took in a User's age, heartRate, and some random variable 'etc', and report back based on where a user fell within preset parameters. The value of the parameters can be user inputed, or be based off of data given to us through data collected in an app.
 
 **Tech used:** JavaScript
 
