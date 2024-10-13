@@ -6,7 +6,7 @@ This is a rough draft brainstorm of what the JavaScript behind an app that took 
 
 ## How It's Made:
 
-"Where do we begin with the areYouGoodDawg function? It serves as a sophisticated sorting mechanism for users based on their age and heart rate, allowing for tailored responses that adapt to various scenarios.
+Where do we begin with the areYouGoodDawg function? It serves as a sophisticated sorting mechanism for users based on their age and heart rate, allowing for tailored responses that adapt to various scenarios.
 
 First, we dive into age categorization. If the user is 10 years old or younger, we initiate our first wave of heart rate analysis. This segment of code acts as a vigilant guardian, monitoring the heart rate and categorizing it accordingly. If the heart rate is a modest 30 BPM or lower, a message appears: 'This is a low heart rate.' For those whose heart rate falls between 31 and 70 BPM, the response shifts to 'This is a middle heart rate.' However, if the heart rate skyrockets above 100 BPM, a friendly warning is issued: 'This kid needs to stop drinking soda.'
 
@@ -20,7 +20,7 @@ As a thoughtful design choice, the function is built to accommodate future age r
 
 To see it in action, we have calls like areYouGoodDawg(9, 40, 'normal'), which will seamlessly categorize a 9-year-old with a heart rate of 40 BPM as healthy. Then there's areYouGoodDawg(15, 300, 'not normal'), where the red flags wave high with that elevated heart rate, alerting us to a potentially serious situation.
 
-In essence, this function encapsulates a well-rounded approach to health monitoring, elegantly handling user input while providing crucial feedback based on age, heart rate, and additional contextual information."
+In essence, this function encapsulates a well-rounded approach to health monitoring, elegantly handling user input while providing crucial feedback based on age, heart rate, and additional contextual information.
 
 
 ## Optimizations
