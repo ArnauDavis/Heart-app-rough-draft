@@ -1,10 +1,11 @@
 # Rough draft for heart monitoring app
 This is a rough draft brainstorm of what the JavaScript behind an app that took in a User's age, heartRate, and some random variable 'etc', and report back based on where a user fell within preset parameters. 
 
+**Tech used:** JavaScript
+
 
 ## How It's Made:
 
-**Tech used:** JavaScript
 "Where do we begin with the areYouGoodDawg function? It serves as a sophisticated sorting mechanism for users based on their age and heart rate, allowing for tailored responses that adapt to various scenarios.
 
 First, we dive into age categorization. If the user is 10 years old or younger, we initiate our first wave of heart rate analysis. This segment of code acts as a vigilant guardian, monitoring the heart rate and categorizing it accordingly. If the heart rate is a modest 30 BPM or lower, a message appears: 'This is a low heart rate.' For those whose heart rate falls between 31 and 70 BPM, the response shifts to 'This is a middle heart rate.' However, if the heart rate skyrockets above 100 BPM, a friendly warning is issued: 'This kid needs to stop drinking soda.'
