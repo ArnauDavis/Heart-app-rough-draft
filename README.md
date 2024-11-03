@@ -24,7 +24,7 @@ In essence, this function encapsulates a well-rounded approach to health monitor
 
 
 ## Optimizations
-Of course this is not set to react or respond to user input through a dedicated UI. A better tutorial example could be present with some simple HTML and CSS for users to input data in and see the JavaScript respond live. The conditional logic could be done more effectively as well, on top of being better organized, but it is my belief this is easier to read.
+Of course this is not set to react or respond to user input through a dedicated UI. A better tutorial example could be present with some simple HTML and CSS for users to input data in and see the JavaScript respond live. The conditional logic could be done more effectively as well, on top of being better organized, but it is my belief this is easier to read. It would also be possible to build an API to store user data and provide information on changes over time.
 
 
 ## Lessons Learned:
